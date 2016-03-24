@@ -26,9 +26,9 @@ function runMain(){
     circleSize = height/10;
   }
   circleMargin = circleSize/3;
-  while(letXPos < height){
+  while(letXPos+circleSize < height){
     letYPos = 0;
-    while(letYPos < width) {
+    while(letYPos+circleSize < width) {
       var newCircle = document.createElement('div');
       newCircle.style.width = circleSize+'px';
       newCircle.style.height = circleSize+'px';
