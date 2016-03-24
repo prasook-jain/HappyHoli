@@ -43,8 +43,8 @@ html,body{
   box-shadow : black 7px 7px 15px 0px;
   z-index: 1;
 
-  animation : popUp 1.5s cubic-bezier(.84,-0.23,.67,1.34),
-              float 1.5s 1.5s ease-in-out alternate infinite;
+  animation : popUp 5s cubic-bezier(.84,-0.23,.67,1.34),
+              float 5s 5s ease-in-out alternate infinite;
 }
 
 .colors:hover{
