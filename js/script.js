@@ -58,7 +58,7 @@ function runMain(){
     msg.appendChild(text);
     mainBackground.appendChild(msg);
   }
-  setTimeout(createMsg,2000);
+  setTimeout(createMsg,5000);
 }
 
 
