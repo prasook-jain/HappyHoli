@@ -21,9 +21,9 @@ function runMain(){
   var letYPos = 0;
 
   if(width > height) {
-    circleSize = width/12;
+    circleSize = width/10;
   } else {
-    circleSize = height/12;
+    circleSize = height/10;
   }
   circleMargin = circleSize/3;
   while(letXPos < height){
