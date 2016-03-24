@@ -140,44 +140,44 @@ footer{
   to { -o-background-color: rgba(255, 0, 0,0.3);   }
 }
 @keyframes rainbox_color{
-  from { text-fill-color: rgba(255, 0, 0, 0.9); }
-  14%{ text-fill-color: rgba(255, 127, 0, 0.9); }
-  29%{ text-fill-color: rgba(255, 255, 0, 0.9); }
-  43%{ text-fill-color: rgba(0, 255, 0, 0.9);   }
-  57%{ text-fill-color: rgba(0, 0, 255, 0.9);   }
-  71%{ text-fill-color: rgba(75, 0, 130, 0.9);  }
-  86%{ text-fill-color: rgba(139, 0, 255, 0.9); }
-  to { text-fill-color: rgba(255, 0, 0, 0.9);   }
+  from { color: rgba(255, 0, 0, 0.9); }
+  14%{ color: rgba(255, 127, 0, 0.9); }
+  29%{ color: rgba(255, 255, 0, 0.9); }
+  43%{ color: rgba(0, 255, 0, 0.9);   }
+  57%{ color: rgba(0, 0, 255, 0.9);   }
+  71%{ color: rgba(75, 0, 130, 0.9);  }
+  86%{ color: rgba(139, 0, 255, 0.9); }
+  to { color: rgba(255, 0, 0, 0.9);   }
 }
 @-webkit-keyframes rainbox_color{
-  from { -webkit-text-fill-color: rgba(255, 0, 0, 0.9); }
-  14%{ -webkit-text-fill-color: rgba(255, 127, 0, 0.9); }
-  29%{ -webkit-text-fill-color: rgba(255, 255, 0, 0.9); }
-  43%{ -webkit-text-fill-color: rgba(0, 255, 0, 0.9);   }
-  57%{ -webkit-text-fill-color: rgba(0, 0, 255, 0.9);   }
-  71%{ -webkit-text-fill-color: rgba(75, 0, 130, 0.9);  }
-  86%{ -webkit-text-fill-color: rgba(139, 0, 255, 0.9); }
-  to { -webkit-text-fill-color: rgba(255, 0, 0, 0.9);   }
+  from { color: rgba(255, 0, 0, 0.9); }
+  14%{ color: rgba(255, 127, 0, 0.9); }
+  29%{ color: rgba(255, 255, 0, 0.9); }
+  43%{ color: rgba(0, 255, 0, 0.9);   }
+  57%{ color: rgba(0, 0, 255, 0.9);   }
+  71%{ color: rgba(75, 0, 130, 0.9);  }
+  86%{ color: rgba(139, 0, 255, 0.9); }
+  to { color: rgba(255, 0, 0, 0.9);   }
 }
 @-moz-keyframes rainbox_color{
-  from { -moz-text-fill-color: rgba(255, 0, 0, 0.9); }
-  14%{ -moz-text-fill-color: rgba(255, 127, 0, 0.9); }
-  29%{ -moz-text-fill-color: rgba(255, 255, 0, 0.9); }
-  43%{ -moz-text-fill-color: rgba(0, 255, 0, 0.9);   }
-  57%{ -moz-text-fill-color: rgba(0, 0, 255, 0.9);   }
-  71%{ -moz-text-fill-color: rgba(75, 0, 130, 0.9);  }
-  86%{ -moz-text-fill-color: rgba(139, 0, 255, 0.9); }
-  to { -moz-text-fill-color: rgba(255, 0, 0, 0.9);   }
+  from { color: rgba(255, 0, 0, 0.9); }
+  14%{ color: rgba(255, 127, 0, 0.9); }
+  29%{ color: rgba(255, 255, 0, 0.9); }
+  43%{ color: rgba(0, 255, 0, 0.9);   }
+  57%{ color: rgba(0, 0, 255, 0.9);   }
+  71%{ color: rgba(75, 0, 130, 0.9);  }
+  86%{ color: rgba(139, 0, 255, 0.9); }
+  to { color: rgba(255, 0, 0, 0.9);   }
 }
 @-o-keyframes rainbox_color{
-  from { -o-text-fill-color: rgba(255, 0, 0, 0.9); }
-  14%{ -o-text-fill-color: rgba(255, 127, 0, 0.9); }
-  29%{ -o-text-fill-color: rgba(255, 255, 0, 0.9); }
-  43%{ -o-text-fill-color: rgba(0, 255, 0, 0.9);   }
-  57%{ -o-text-fill-color: rgba(0, 0, 255, 0.9);   }
-  71%{ -o-text-fill-color: rgba(75, 0, 130, 0.9);  }
-  86%{ -o-text-fill-color: rgba(139, 0, 255, 0.9); }
-  to { -o-text-fill-color: rgba(255, 0, 0, 0.9);   }
+  from { color: rgba(255, 0, 0, 0.9); }
+  14%{ color: rgba(255, 127, 0, 0.9); }
+  29%{ color: rgba(255, 255, 0, 0.9); }
+  43%{ color: rgba(0, 255, 0, 0.9);   }
+  57%{ color: rgba(0, 0, 255, 0.9);   }
+  71%{ color: rgba(75, 0, 130, 0.9);  }
+  86%{ color: rgba(139, 0, 255, 0.9); }
+  to { color: rgba(255, 0, 0, 0.9);   }
 }
 
 @keyframes border{
